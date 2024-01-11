@@ -1,9 +1,8 @@
 # 🚀 Entrega Parcial 1 do Projeto Final
-Construção de um Pipeline de Dados.
+Construção de um Pipeline de Dados sobre filmes e series.
 
 # 📋 Pré-requisitos
 Instalar Python3 e dependencias do arquivo requirements.txt
-
 
 # 🔧 Instalação
 Criar uma Virtual Environment
@@ -21,12 +20,13 @@ Criar uma Virtual Environment
 instalar as dependencias do arquivo requirements.txt utilizando o comando: 
     - pip install -r requirements.txt
 
-
-# 🛠️ Construído com 
-    - Linguagem de programação: Python
+# 🛠️ Construído com
+    - Linguagem de programação: Python, utilizando pandas e gerando arquivo BD sqlite3.
 
 # 📌 Versão
-    - 1.3
+    - 2.1
 
 # ✒️ Autores
     - Paloma Mendes de Souza
+    - Luis Lira
+    - Marcos Otani

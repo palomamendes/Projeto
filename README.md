@@ -1,4 +1,4 @@
-# 🚀 Entrega Parcial 1 do Projeto Final
+# 🚀 Projeto Final
 Construção de um Pipeline de Dados sobre filmes e series.
 
 # 📋 Pré-requisitos

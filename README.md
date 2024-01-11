@@ -30,3 +30,4 @@ instalar as dependencias do arquivo requirements.txt utilizando o comando:
     - Paloma Mendes de Souza
     - Luis Lira
     - Marcos Otani
+    
